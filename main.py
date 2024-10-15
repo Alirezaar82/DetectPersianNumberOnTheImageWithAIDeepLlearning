@@ -11,7 +11,7 @@ class_name = [
 ]
 
 root = Tk()
-root.title("Detect persian number on the image")
+root.title("Detect Persian number on the image")
 
 root.geometry("600x400")
 
